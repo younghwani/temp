@@ -22,3 +22,5 @@ mp4 file 양식 다운로드 시 안에 있던 파일입니다.
 ## nicetomeetyou.jpeg
 - [Link](https://unsplash.com/photos/5U_28ojjgms)
 
+## News Stand
+-[Link](https://pixabay.com/ko/videos/%EC%8B%A0%EB%AC%B8-%ED%8C%90%EB%A7%A4%EB%8C%80-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%8B%A0%EB%AC%B8-99856/)
